@@ -6,7 +6,7 @@ A major challenge for single cell RNA sequencing of human tumors is to distingui
 Installing copykat from GitHub
 ```{r, eval=FALSE}
 library(devtools)
-install_github("navinlabcode/copykat")
+install_github("nierq/copykat_t")
 ```
 
 To update between versions, please remove old version with the following codes and then reinstall it with the above codes. 
